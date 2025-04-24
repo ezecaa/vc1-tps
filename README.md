@@ -2,10 +2,11 @@
 
 **Datos del Estudiante:**
 
-* **Nombre:** Ezequiel Alejandro Caamaño
-* **Materia:** Visión por Computadora 1
-* **Cohorte:** 18va. Cohorte
 * **Curso:** Especialización en Inteligencia Artificial
+* **Materia:** Visión por Computadora 1
+* **Nombre:** Ezequiel Alejandro Caamaño
+* **Cohorte:** 18va. Cohorte
+
 
 **Descripción:**
 
@@ -23,10 +24,10 @@ Este repositorio contiene los tres trabajos prácticos correspondientes a la mat
     * `notebook_tp3.ipynb`: Notebook de Codelab correspondiente al Trabajo Práctico N° 3.
     * `imagenes/`: Carpeta que contiene las imágenes procesadas y utilizadas en el Trabajo Práctico N° 3.
 
-
-```markdown
 **Instrucciones:**
 
 Para visualizar los notebooks, se recomienda utilizar Google Colab o Jupyter Notebook. Asegúrate de tener las bibliotecas necesarias instaladas en tu entorno.
 
 Las imágenes utilizadas en cada trabajo práctico se encuentran dentro de la carpeta `imagenes` correspondiente.
+
+```markdown
